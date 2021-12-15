@@ -1,3 +1,18 @@
+import * as readline from 'readline';
+
+let rl = readline.createInterface({
+  input: process.stdin,
+  output: process.stdout
+});
+
+rl.question('Please enter total distance traveled. (In Km only)', (traveled) => {
+    var fare: number = getFare(+traveled) 
+    if(fare>0) console.log("Total Fare for distance "+ traveled + " Km traveled : " + fare + "Rs"); 
+    else console.log("Invalid Distance");
+  rl.close();
+});
+
+
 function getFare(distance: number) { 
     const first_five_km = 5 * 20
     const ten_km_after_first_five = 10 * 18
@@ -13,9 +28,4 @@ function getFare(distance: number) {
     }else {
         return first_five_km + ten_km_after_first_five + (distance - 15) * 15
     }
-} 
-
-var traveled: number = 25
-var fare: number = getFare(traveled) 
-if(fare>0) console.log("Total Fare for distance "+ traveled + " Km traveled : " + fare + "Rs"); 
-else console.log("Invalid Distance");
+}

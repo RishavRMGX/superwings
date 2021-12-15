@@ -1,3 +1,18 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+var readline = require("readline");
+var rl = readline.createInterface({
+    input: process.stdin,
+    output: process.stdout
+});
+rl.question('Please enter total distance traveled. (In Km only)', function (traveled) {
+    var fare = getFare(+traveled);
+    if (fare > 0)
+        console.log("Total Fare for distance " + traveled + " Km traveled : " + fare + "Rs");
+    else
+        console.log("Invalid Distance");
+    rl.close();
+});
 function getFare(distance) {
     var first_five_km = 5 * 20;
     var ten_km_after_first_five = 10 * 18;
@@ -17,9 +32,3 @@ function getFare(distance) {
         return first_five_km + ten_km_after_first_five + (distance - 15) * 15;
     }
 }
-var traveled = 25;
-var fare = getFare(traveled);
-if (fare > 0)
-    console.log("Total Fare for distance " + traveled + " Km traveled : " + fare + "Rs");
-else
-    console.log("Invalid Distance");
