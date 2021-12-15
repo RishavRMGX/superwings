@@ -8,7 +8,15 @@ public class JavaTest {
         TaxiFare taxiFare = new TaxiFare();
 
         //Inserting invalid negative distance
-        Assertions.assertTrue(taxiFare.getFareForDistance(-10)<0);
+        Assertions.assertTrue(taxiFare.getFareForDistance(-10f)<0);
+    }
+
+    @Test
+    void checkWithNull(){
+        TaxiFare taxiFare = new TaxiFare();
+        Float check = null;
+        //Inserting null distance
+        Assertions.assertTrue(taxiFare.getFareForDistance(check)<0);
     }
 
     @Test
