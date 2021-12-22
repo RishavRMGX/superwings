@@ -1,0 +1,15 @@
+D:\RMgX\superwings\C#Assignment4\bin\Debug\net6.0\C#Assignment4.exe
+D:\RMgX\superwings\C#Assignment4\bin\Debug\net6.0\C#Assignment4.deps.json
+D:\RMgX\superwings\C#Assignment4\bin\Debug\net6.0\C#Assignment4.runtimeconfig.json
+D:\RMgX\superwings\C#Assignment4\bin\Debug\net6.0\C#Assignment4.dll
+D:\RMgX\superwings\C#Assignment4\bin\Debug\net6.0\ref\C#Assignment4.dll
+D:\RMgX\superwings\C#Assignment4\bin\Debug\net6.0\C#Assignment4.pdb
+D:\RMgX\superwings\C#Assignment4\obj\Debug\net6.0\C#Assignment4.csproj.AssemblyReference.cache
+D:\RMgX\superwings\C#Assignment4\obj\Debug\net6.0\C#Assignment4.GeneratedMSBuildEditorConfig.editorconfig
+D:\RMgX\superwings\C#Assignment4\obj\Debug\net6.0\C#Assignment4.AssemblyInfoInputs.cache
+D:\RMgX\superwings\C#Assignment4\obj\Debug\net6.0\C#Assignment4.AssemblyInfo.cs
+D:\RMgX\superwings\C#Assignment4\obj\Debug\net6.0\C#Assignment4.csproj.CoreCompileInputs.cache
+D:\RMgX\superwings\C#Assignment4\obj\Debug\net6.0\C#Assignment4.dll
+D:\RMgX\superwings\C#Assignment4\obj\Debug\net6.0\ref\C#Assignment4.dll
+D:\RMgX\superwings\C#Assignment4\obj\Debug\net6.0\C#Assignment4.pdb
+D:\RMgX\superwings\C#Assignment4\obj\Debug\net6.0\C#Assignment4.genruntimeconfig.cache
