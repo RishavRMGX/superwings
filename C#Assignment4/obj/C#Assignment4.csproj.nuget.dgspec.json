@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\RMgX\\superwings\\C#Assignment4\\C#Assignment4.csproj": {}
+    "d:\\RMgX\\superwings\\C#Assignment4\\C#Assignment4.csproj": {}
   },
   "projects": {
-    "D:\\RMgX\\superwings\\C#Assignment4\\C#Assignment4.csproj": {
+    "d:\\RMgX\\superwings\\C#Assignment4\\C#Assignment4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\RMgX\\superwings\\C#Assignment4\\C#Assignment4.csproj",
+        "projectUniqueName": "d:\\RMgX\\superwings\\C#Assignment4\\C#Assignment4.csproj",
         "projectName": "C#Assignment4",
-        "projectPath": "D:\\RMgX\\superwings\\C#Assignment4\\C#Assignment4.csproj",
+        "projectPath": "d:\\RMgX\\superwings\\C#Assignment4\\C#Assignment4.csproj",
         "packagesPath": "C:\\Users\\risha\\.nuget\\packages\\",
-        "outputPath": "D:\\RMgX\\superwings\\C#Assignment4\\obj\\",
+        "outputPath": "d:\\RMgX\\superwings\\C#Assignment4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\risha\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

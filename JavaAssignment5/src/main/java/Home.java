@@ -31,5 +31,13 @@ public class Home {
         Float medianResult = medianFinder.medianFinder(arryInput, n);
         if(medianResult==null) System.out.println("Invalid Input");
         System.out.println("Median of array is "+ medianResult);
+
+        System.out.println("Enter string to check if it is Palindrome. ");
+        String input = scan.nextLine();
+        Palindrome palindrome = new Palindrome();
+        Boolean palindromeResult = palindrome.palindromeChecker(input);
+        if(palindromeResult==null) System.out.println("Invalid Input");
+        else if(palindromeResult) System.out.println(year + " is a Palindrome");
+        else System.out.println(year + " is not Palindrome");
     }
 }

@@ -1,0 +1,15 @@
+D:\RMgX\superwings\C#Assignment5\bin\Debug\net6.0\C#Assignment5.exe
+D:\RMgX\superwings\C#Assignment5\bin\Debug\net6.0\C#Assignment5.deps.json
+D:\RMgX\superwings\C#Assignment5\bin\Debug\net6.0\C#Assignment5.runtimeconfig.json
+D:\RMgX\superwings\C#Assignment5\bin\Debug\net6.0\C#Assignment5.dll
+D:\RMgX\superwings\C#Assignment5\bin\Debug\net6.0\ref\C#Assignment5.dll
+D:\RMgX\superwings\C#Assignment5\bin\Debug\net6.0\C#Assignment5.pdb
+D:\RMgX\superwings\C#Assignment5\obj\Debug\net6.0\C#Assignment5.csproj.AssemblyReference.cache
+D:\RMgX\superwings\C#Assignment5\obj\Debug\net6.0\C#Assignment5.GeneratedMSBuildEditorConfig.editorconfig
+D:\RMgX\superwings\C#Assignment5\obj\Debug\net6.0\C#Assignment5.AssemblyInfoInputs.cache
+D:\RMgX\superwings\C#Assignment5\obj\Debug\net6.0\C#Assignment5.AssemblyInfo.cs
+D:\RMgX\superwings\C#Assignment5\obj\Debug\net6.0\C#Assignment5.csproj.CoreCompileInputs.cache
+D:\RMgX\superwings\C#Assignment5\obj\Debug\net6.0\C#Assignment5.dll
+D:\RMgX\superwings\C#Assignment5\obj\Debug\net6.0\ref\C#Assignment5.dll
+D:\RMgX\superwings\C#Assignment5\obj\Debug\net6.0\C#Assignment5.pdb
+D:\RMgX\superwings\C#Assignment5\obj\Debug\net6.0\C#Assignment5.genruntimeconfig.cache
