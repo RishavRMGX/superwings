@@ -7,5 +7,7 @@ class Median:
         if input_array is None or size is None:
             return None
         else:
-            position = ceil(size / 2)
-            return input_array[position-1]
+            input_array.sort()
+            temp = size/2
+            position = int(ceil(temp))
+            return input_array[position - 1]
